@@ -19,12 +19,12 @@ public class WrldMap : MonoBehaviour
     [Tooltip("In degrees")]
     [Range(-90.0f, 90.0f)]
     [SerializeField]
-    private double m_latitudeDegrees = 37.771092;
+    public double m_latitudeDegrees = 37.771092;
 
     [Tooltip("In degrees")]
     [Range(-180.0f, 180.0f)]
     [SerializeField]
-    private double m_longitudeDegrees = -122.468385;
+    public double m_longitudeDegrees = -122.468385;
 
     [Tooltip("The distance of the camera from the interest point (meters)")]
     [SerializeField]
