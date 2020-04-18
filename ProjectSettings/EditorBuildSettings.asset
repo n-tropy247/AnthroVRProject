@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Wrld/VRExample/VRExample.unity
-    guid: 5f1f56774c2adc445a358fa09a6a433e
+    path: Assets/Scenes/PhilmontCloseScene.unity
+    guid: 08678a1446d4acc46940355560f777a3
+  - enabled: 1
+    path: Assets/Scenes/PACloseScene.unity
+    guid: 7fee3769f4c25634d9a63be6f281ad95
   m_configObjects: {}
