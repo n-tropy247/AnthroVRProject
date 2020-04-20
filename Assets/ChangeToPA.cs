@@ -9,7 +9,7 @@ public class ChangeToPA : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		timer = 10f;
+		timer = 20f;
 	}
 	
 	// Update is called once per frame
